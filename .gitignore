@@ -76,3 +76,6 @@ docker-compose.saas.yml
 inited
 
 k6
+# Infomaniak cron trigger state (public/cron.php)
+/storage/framework/cron.lock
+/storage/framework/cron.last
